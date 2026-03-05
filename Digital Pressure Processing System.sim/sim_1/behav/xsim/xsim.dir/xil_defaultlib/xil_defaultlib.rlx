@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Users/victo/vivado/Digital Pressure Processing System/Digital Pressure Processing System.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/victo/vivado/Digital Pressure Processing System/Digital Pressure Processing System.srcs/sim_1/new/tb_dig_top.sv,1772562700,systemVerilog,,,,tb_dig_top,,uvm,,,,,,
+C:/Users/victo/vivado/Digital Pressure Processing System/Digital Pressure Processing System.srcs/sources_1/new/counter_interface.sv,1772561756,systemVerilog,,C:/Users/victo/vivado/Digital Pressure Processing System/Digital Pressure Processing System.srcs/sources_1/new/digital_top.sv,,counter_interface,,uvm,,,,,,
+C:/Users/victo/vivado/Digital Pressure Processing System/Digital Pressure Processing System.srcs/sources_1/new/digital_top.sv,1747419721,systemVerilog,,C:/Users/victo/vivado/Digital Pressure Processing System/Digital Pressure Processing System.srcs/sources_1/new/prelucrare.sv,,digital_top,,uvm,,,,,,
+C:/Users/victo/vivado/Digital Pressure Processing System/Digital Pressure Processing System.srcs/sources_1/new/prelucrare.sv,1747409732,systemVerilog,,C:/Users/victo/vivado/Digital Pressure Processing System/Digital Pressure Processing System.srcs/sources_1/new/pressure_controller.sv,,prelucrare,,uvm,,,,,,
+C:/Users/victo/vivado/Digital Pressure Processing System/Digital Pressure Processing System.srcs/sources_1/new/pressure_controller.sv,1772563943,systemVerilog,,C:/Users/victo/vivado/Digital Pressure Processing System/Digital Pressure Processing System.srcs/sim_1/new/tb_dig_top.sv,,pressure_controller,,uvm,,,,,,
